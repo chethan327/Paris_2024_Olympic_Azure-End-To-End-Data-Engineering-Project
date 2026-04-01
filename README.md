@@ -36,7 +36,7 @@ The pipeline ingests raw data, performs transformations, and delivers actionable
 6. **Analytics (Azure Synapse Analytics)**  
    - Performs querying and analysis  
    - Enables optimized data access  
-![Azure Synapse Analytics]()
+![Azure Synapse Analytics](Outputs/Azure%20Synapse%20Analytics.jpg)
 7. **Visualization (Power BI)**  
    - Builds interactive dashboards  
    - Displays medal distribution, rankings, and trends  
